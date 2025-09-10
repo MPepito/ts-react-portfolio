@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ts-react-portfolio/static/css/main.b932685d.css",
-    "main.js": "/ts-react-portfolio/static/js/main.b7c7fe22.js",
-    "static/js/453.b05d8aa5.chunk.js": "/ts-react-portfolio/static/js/453.b05d8aa5.chunk.js",
-    "static/media/MockJavion.png": "/ts-react-portfolio/static/media/MockJavion.fad5b606e03c08e85ddc.png",
-    "static/media/mockTsne.png": "/ts-react-portfolio/static/media/mockTsne.dd218cae0052a39123c6.png",
-    "static/media/bg-light.png": "/ts-react-portfolio/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark.png": "/ts-react-portfolio/static/media/bg-dark.18d28d7bffdd71d62bba.png",
-    "static/media/mockVol.png": "/ts-react-portfolio/static/media/mockVol.b68ad06088742a336861.png",
-    "static/media/mockNirlabJEPA.png": "/ts-react-portfolio/static/media/mockNirlabJEPA.b2db50b39ef18d382fb2.png",
-    "static/media/mockPocket.png": "/ts-react-portfolio/static/media/mockPocket.104ee51619d2b0edcb7f.png",
-    "static/media/portrait.jpeg": "/ts-react-portfolio/static/media/portrait.d8f4d99090374b804ec8.jpeg",
-    "index.html": "/ts-react-portfolio/index.html",
-    "main.b932685d.css.map": "/ts-react-portfolio/static/css/main.b932685d.css.map",
-    "main.b7c7fe22.js.map": "/ts-react-portfolio/static/js/main.b7c7fe22.js.map",
-    "453.b05d8aa5.chunk.js.map": "/ts-react-portfolio/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/static/css/main.802b681c.css",
+    "main.js": "/static/js/main.dfb53ae6.js",
+    "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
+    "static/media/MockJavion.png": "/static/media/MockJavion.fad5b606e03c08e85ddc.png",
+    "static/media/mockTsne.png": "/static/media/mockTsne.dd218cae0052a39123c6.png",
+    "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/static/media/bg-dark.18d28d7bffdd71d62bba.png",
+    "static/media/mockVol.png": "/static/media/mockVol.b68ad06088742a336861.png",
+    "static/media/mockNirlabJEPA.png": "/static/media/mockNirlabJEPA.b2db50b39ef18d382fb2.png",
+    "static/media/mockPocket.png": "/static/media/mockPocket.104ee51619d2b0edcb7f.png",
+    "static/media/portrait.jpeg": "/static/media/portrait.d8f4d99090374b804ec8.jpeg",
+    "index.html": "/index.html",
+    "main.802b681c.css.map": "/static/css/main.802b681c.css.map",
+    "main.dfb53ae6.js.map": "/static/js/main.dfb53ae6.js.map",
+    "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b932685d.css",
-    "static/js/main.b7c7fe22.js"
+    "static/css/main.802b681c.css",
+    "static/js/main.dfb53ae6.js"
   ]
 }
