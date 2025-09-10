@@ -7,34 +7,35 @@ import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
-    "PyTorch",
-    "LangChain",
-    "Hugging Face",
     "Python",
-    "CUDA"
+    "SQL",
+    "PyTorch",
+    "Hugging Face",
+    "CUDA",
+    "XGBoost",
+    "Scikit-learn",
 
 ];
 
 const labelsSecond = [
-    "Google Firebase",
     "Docker",
     "GitHub Actions",
-    "Linux",
+    "Databricks",
+    "MLOps",
+    "Azure Data Factory"
+
+
+];
+
+const labelsThird = [
     "Java",
     "React",
     "JavaScript",
     "Kotlin",
     "HTML5",
-    "CSS3"
-];
-
-const labelsThird = [
-    "Databricks",
-    "Scikit-learn",
-    "Azure",
-    "MySQL",
-    "C",
-    "Scala"
+    "CSS3",
+    "Scala",
+    "C"
 ];
 
 function Expertise() {

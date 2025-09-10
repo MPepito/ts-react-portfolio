@@ -18,7 +18,7 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="July 2024 - February 2025"
+            date="May 2024 - February 2025"
             iconStyle={{ background: '#053E9F', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
@@ -29,7 +29,7 @@ function Timeline() {
                 style={{ width: '60px', height: '60px', objectFit: 'contain' }}
               />
               <h3 className="vertical-timeline-element-title" style={{ margin: 0 }}>
-                Research project with the startup NIRLAB
+                ML Engineer Intern at the startup NIRLAB
               </h3>
             </div>
             <h4 className="vertical-timeline-element-subtitle">Lausanne</h4>
@@ -44,7 +44,7 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2021 - Juin 2025"
+            date="2021 - June 2025"
             iconStyle={{ background: '#053E9F', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
@@ -60,7 +60,7 @@ function Timeline() {
             iconStyle={{ background: '#053E9F', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Analyst</h3>
+            <h3 className="vertical-timeline-element-title">Data Scientist</h3>
             <h4 className="vertical-timeline-element-subtitle">COFCO, Geneva</h4>
             <p>
               Migrated Excel workflows to a cloud-native Azure architecture, implemented ADF-based ETL pipelines for satellite-driven yield prediction in Databricks.
@@ -86,7 +86,7 @@ function Timeline() {
             iconStyle={{ background: '#053E9F', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Analyst</h3>
+            <h3 className="vertical-timeline-element-title">Junior Data Scientist</h3>
             <h4 className="vertical-timeline-element-subtitle">ED&F MAN, Zürich</h4>
             <p>
               Design and deploy a vessel line-up management system for key ports, optimizing scheduling and improving destination predictions by three days compared to public data provider.

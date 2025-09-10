@@ -14,8 +14,8 @@ function Project() {
         
             <div className="project">
                 <a href="https://www.nirlab.com/" target="_blank" rel="noreferrer"><img src={mockNirlabJEPA} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.nirlab.com/" target="_blank" rel="noreferrer"><h2>Latent Space Mapping for Cocaine Origin Classification Using JEPA and Autoencoders in PyTorch</h2></a>
-                <p>(Ongoing) Develop a classifier using Joint-Embedding Predictive Architecture (JEPA) and a autoencoder in PyTorch to map drug samples into a latent space, identifying cocaine’s origin based on chemical composition. Benchmarked the model as part of a research collaboration with NIRLAB and the EPFL lab of Computational Neuroscience</p>
+                <a href="https://www.nirlab.com/" target="_blank" rel="noreferrer"><h2>Latent Space Mapping for Cocaine Origin Classification Using Scikit-learn and Autoencoders in PyTorch</h2></a>
+                <p>Developed machine learning models for supervised classification (KNN) and unsupervised clustering (K-means, DBSCAN) and a autoencoder in PyTorch to map drug samples into a latent space, identifying cocaine’s origin based on chemical composition. Benchmarked the model as part of a research collaboration with NIRLAB and the EPFL lab of Computational Neuroscience</p>
             </div>
 
             <div className="project">
