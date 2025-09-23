@@ -19,7 +19,7 @@ function Main() {
     setResponse('');
 
     try {
-      const res = await fetch('http://localhost:8000/ask', {
+      const res = await fetch('https://mpepito-promptme-backend.hf.space/ask', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
