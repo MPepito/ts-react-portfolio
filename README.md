@@ -10,9 +10,29 @@
 
 ## Features
 
-✅ Open source (free to use, no attribution required)  
-✅ Responsive design & mobile-friendly  
-✅ Supports both dark and light modes  
-✅ Highly customizable multi-component layout  
-✅ Built with modern technologies (React, TypeScript, JavaScript, and SCSS)  
+- Open source (free to use, no attribution required)  
+- Responsive design & mobile-friendly  
+- Supports both dark and light modes  
+- Highly customizable multi-component layout  
+- Built with modern technologies (React, TypeScript, JavaScript, and SCSS) 
+
+## Quick Setup
+
+1. **Ensure Node.js is installed**  
+   Check your installation by running:
+   ```bash
+   node -v
+
+2. **Install dependencies**
+    In the project directory, run:
+    ```bash
+    npm install
+
+3. **Start the development server**
+    In the project directory, run:
+    ```bash
+    npm start
+
+4. **Open the app in your browser**
+    Visit http://localhost:3000
 
