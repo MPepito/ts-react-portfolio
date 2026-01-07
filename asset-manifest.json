@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fc035b5b.css",
-    "main.js": "/static/js/main.9b91f899.js",
+    "main.css": "/static/css/main.c148300c.css",
+    "main.js": "/static/js/main.7b5e62f3.js",
     "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
     "static/media/MockJavion.png": "/static/media/MockJavion.fad5b606e03c08e85ddc.png",
     "static/media/mockTsne.png": "/static/media/mockTsne.dd218cae0052a39123c6.png",
@@ -10,14 +10,17 @@
     "static/media/mockVol.png": "/static/media/mockVol.b68ad06088742a336861.png",
     "static/media/mockNirlabJEPA.png": "/static/media/mockNirlabJEPA.b2db50b39ef18d382fb2.png",
     "static/media/mockPocket.png": "/static/media/mockPocket.104ee51619d2b0edcb7f.png",
+    "static/media/effixis.png": "/static/media/effixis.dbff9a866bec453c4de0.png",
+    "static/media/Rag.png": "/static/media/Rag.1a696d85a3c439cc18b7.png",
     "static/media/portrait.jpeg": "/static/media/portrait.d8f4d99090374b804ec8.jpeg",
+    "static/media/gameboy.png": "/static/media/gameboy.71ddea8ad564d0b63ab0.png",
     "index.html": "/index.html",
-    "main.fc035b5b.css.map": "/static/css/main.fc035b5b.css.map",
-    "main.9b91f899.js.map": "/static/js/main.9b91f899.js.map",
+    "main.c148300c.css.map": "/static/css/main.c148300c.css.map",
+    "main.7b5e62f3.js.map": "/static/js/main.7b5e62f3.js.map",
     "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc035b5b.css",
-    "static/js/main.9b91f899.js"
+    "static/css/main.c148300c.css",
+    "static/js/main.7b5e62f3.js"
   ]
 }
