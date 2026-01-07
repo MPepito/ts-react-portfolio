@@ -127,6 +127,39 @@
     }
 }
 
+.light-mode .about-section .prompt-section {
+    .prompt-input {
+        input {
+            background-color: rgba(0, 0, 0, 0.05);
+            color: #0d1116;
+            border: 1px solid rgba(0, 0, 0, 0.2);
+
+            &::placeholder {
+                color: rgba(0, 0, 0, 0.5);
+            }
+
+            &:focus {
+                border-color: rgba(0, 0, 0, 0.4);
+            }
+        }
+
+        button {
+            background-color: rgba(0, 0, 0, 0.1);
+            color: #0d1116;
+
+            &:hover:not(:disabled) {
+                background-color: rgba(0, 0, 0, 0.2);
+            }
+        }
+    }
+
+    .response-display {
+        background-color: rgba(0, 0, 0, 0.05);
+        color: #0d1116;
+        border: 1px solid rgba(0, 0, 0, 0.15);
+    }
+}
+
 .about-section .image-wrapper {
     z-index: 2;
     img {

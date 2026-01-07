@@ -6,6 +6,8 @@ import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timel
 import 'react-vertical-timeline-component/style.min.css';
 import '../assets/styles/Timeline.scss'
 import nirlabLogo from '../assets/images/nirlab.png';
+import effixisLogo from '../assets/images/effixis.png';
+import EPFLLogo from '../assets/images/epflLogo.png';
 
 function Timeline() {
   return (
@@ -18,10 +20,61 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="May 2024 - February 2025"
+            date="Jan 2026 - July 2026"
             iconStyle={{ background: '#053E9F', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
+            <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+              <img
+                src={effixisLogo}
+                alt="Effixis logo"
+                style={{ width: '60px', height: '60px', objectFit: 'contain' }}
+              />
+              <h3 className="vertical-timeline-element-title" style={{ margin: 0 }}>
+                LLM Engineer Intern at Effixis
+              </h3>
+            </div>
+            <h4 className="vertical-timeline-element-subtitle">Lausanne</h4>
+
+            <p>
+              Architect production multi-agent systems by applying software engineering principles such as domain-driven design, observability, and failure isolation.
+            </p>
+          </VerticalTimelineElement>
+
+
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
+            contentArrowStyle={{ borderRight: '7px solid  white' }}
+            date="Sep 2025 - July 2026"
+            iconStyle={{ background: '#053E9F', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+        >
+            <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+              <img
+                src={EPFLLogo}
+                alt="EPFL logo"
+                style={{ width: '60px', height: '60px', objectFit: 'contain' }}
+              />
+              <h3 className="vertical-timeline-element-title" style={{ margin: 0 }}>
+                Master's degree in Computer Science
+              </h3>
+            </div>
+            <h4 className="vertical-timeline-element-subtitle">Lausanne</h4>
+
+            <p>
+              Built multiple projects across AI, ML, and system design, always looking to bridge academic learning with practical impact.
+            </p>
+          </VerticalTimelineElement>
+
+        <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
+            contentArrowStyle={{ borderRight: '7px solid  white' }}
+            date="July 2024 - February 2025"
+            iconStyle={{ background: '#053E9F', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+        >
             <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
               <img
                 src={nirlabLogo}
@@ -39,7 +92,6 @@ function Timeline() {
             </p>
           </VerticalTimelineElement>
 
-
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
@@ -48,12 +100,24 @@ function Timeline() {
             iconStyle={{ background: '#053E9F', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Bachelor in Computer Science</h3>
-            <h4 className="vertical-timeline-element-subtitle">EPFL, Lausanne</h4>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+              <img
+                src={EPFLLogo}
+                alt="EPFL logo"
+                style={{ width: '60px', height: '60px', objectFit: 'contain' }}
+              />
+              <h3 className="vertical-timeline-element-title" style={{ margin: 0 }}>
+                Bachelor's degree in Computer Science
+              </h3>
+            </div>
+            <h4 className="vertical-timeline-element-subtitle">Lausanne</h4>
+
             <p>
-              Built several hands-on projects across AI, ML, and system design, always looking to bridge academic learning with practical impact.
+              Built multiple projects across AI, ML, and system design, always looking to bridge academic learning with practical impact.
             </p>
           </VerticalTimelineElement>
+
+
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             date="2018 - 2021"
@@ -63,7 +127,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Data Scientist</h3>
             <h4 className="vertical-timeline-element-subtitle">COFCO, Geneva</h4>
             <p>
-              Migrated Excel workflows to a cloud-native Azure architecture, implemented ADF-based ETL pipelines for satellite-driven yield prediction in Databricks.
+              Implemented ADF-based ETL pipelines for satellite-driven yield prediction in Databricks and Migrated Excel workflows to a cloud-native Azure architecture.
             </p>
           </VerticalTimelineElement>
           
