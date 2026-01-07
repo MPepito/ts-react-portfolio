@@ -18,6 +18,14 @@ function Main() {
     setError('');
     setResponse('');
 
+    // Static response
+    setTimeout(() => {
+      setResponse("I'm currently employed and saving my LLM inference budget for another project. I'd be happy to connect and discuss on LinkedIn if you have any questions! Also, this RAG+FastAPI backend setup is open source on my GitHub if you want to have a look at it.");
+      setLoading(false);
+    }, 500);
+
+    // Backend connection (currently disabled)
+    /*
     try {
       const res = await fetch('https://mpepito-promptme-backend.hf.space/ask', {
         method: 'POST',
@@ -38,6 +46,7 @@ function Main() {
     } finally {
       setLoading(false);
     }
+    */
   };
 
   return (
